@@ -12,7 +12,7 @@ module ViewsHelper
     capture_haml { haml_tag :link, :href=>"/stylesheets/#{name}.css", :media=>"screen", :rel=>"stylesheet", :type=>"text/css" }
   end
   def include_jsFile name
-    capture_haml { haml_tag :script, :src=>"/javascripts.#{name}.js", :type=>"text/javascript" }
+    capture_haml { haml_tag :script, :src=>"/javascripts/#{name}.js", :type=>"text/javascript" }
   end
 
 
