@@ -12,6 +12,11 @@
 
 # Application core.
 # ========================================================================
-  gem 'sinatra'                                   # Application Framework.
-  gem 'haml'                                      # Template generator.
-  gem 'bson_ext'
+  gem 'sinatra'                                  # Application Framework.
+
+
+
+# Assets.
+# ========================================================================
+  gem 'haml'                                    # Add Haml & Sass support.
+  gem 'coffee-script'                           # Add Coffee support.
