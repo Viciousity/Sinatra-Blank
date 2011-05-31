@@ -6,10 +6,10 @@
 
 # Load Helpers.
 # ========================================================================
-  # require File.join(File.dirname(__FILE__), 'your_helper')
+  require File.join(File.dirname(__FILE__), 'views_helper')
 
 
 
 # Manage active helpers.
 # ========================================================================
-  # helpers YourHelper
+  helpers ViewsHelper
