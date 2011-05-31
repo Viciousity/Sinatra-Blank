@@ -11,8 +11,24 @@
       padding: 0;
     }
 
+    html {
+      background-color: #EEE;
+      font: 16px/1.5em Arial, Verdana, Helvetica, sans-serif;
+    }
     body {
-      font-size: 16px;
-      font-family: Arial, Verdana, Helvetica, sans-serif;
-      line-height: 1.5em;
+      background-color: #FFF;
+      border: 1px solid #DDD;
+      margin: 40px auto 20px auto;
+      padding: 30px;
+      width: 720px;
+    }
+
+    h1 {
+      font-size: 1.3em;
+      font-weight: normal;
+      margin-bottom: 15px;
+    }
+    p {
+      color: #555;
+      font-size: .8em;
     }
