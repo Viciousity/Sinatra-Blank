@@ -13,9 +13,9 @@
 
 # Load application librairies.
 # ========================================================================
-  require './app/controllers/library'
-  require './app/helpers/library'
-  require './app/models/library'
+  require 'app/controllers/library'
+  require 'app/helpers/library'
+  require 'app/models/library'
 
 
 
