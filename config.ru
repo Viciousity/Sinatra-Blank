@@ -1,5 +1,5 @@
 
-# PROJECT-NAME : Description.
+# SINATRA-BLANK : Ready to use Sinatra MVC solution.
 # |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| v0.1 ||
 
 
@@ -23,7 +23,7 @@
 # ========================================================================
   enable :sessions
 
-  set :environment, :developement
+  set :environment, :development
   set :public,       Proc.new { File.join(root, "./public") }
   set :views,        Proc.new { File.join(root, "./app/views") }
 
