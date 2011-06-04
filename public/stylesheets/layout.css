@@ -23,6 +23,9 @@
       width: 720px;
     }
 
+
+/*  Heading & text.
+------------------------------------------------------------------------*/
     h1, h2 {
       font-weight: normal;
       margin-bottom: 1em;
@@ -40,4 +43,14 @@
       color: #555;
       font-size: .8em;
       margin-bottom: 14px;
+    }
+
+
+/*  Miscalenous.
+------------------------------------------------------------------------*/
+    .end {
+      margin-bottom: 0;
+    }
+    .center {
+      text-align: center;
     }

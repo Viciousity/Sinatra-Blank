@@ -1,7 +1,7 @@
 
 # APPLICATION JS FILES.
-# ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+# |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| Coffee ||
 
 
 
-# Place your coffee goodness here...
+# Coffee-script goodness.
